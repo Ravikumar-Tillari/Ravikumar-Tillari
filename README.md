@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ravikumar Tillari 👋
 
-<!--
-**Ravikumar-Tillari/Ravikumar-Tillari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring SOC Analyst | Blue Team | Open to Entry-Level Roles
 
-Here are some ideas to get you started:
+## 🛡️ About Me
+- 🎓 B.Tech CSE Graduate — Sri Vasavi Institute of Engineering & Technology (JNTUK)
+- 📍 Andhra Pradesh, India
+- 🔭 Currently pursuing **ISC2 CC** & **Google Cybersecurity Certificate**
+- 🌱 Hands-on practice on **TryHackMe** (SOC L1 Path) & **LetsDefend**
+- 💼 Open to Entry-Level SOC Analyst roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- IBM Cybersecurity Analyst Professional Certificate
+- Cisco Introduction to Cybersecurity
+- Google Cybersecurity Professional Certificate (Pursuing)
+- ISC2 CC (Pursuing)
+
+## 🔧 Tools & Skills
+- SIEM | Log Analysis | Incident Response
+- Wireshark | Splunk | Linux
+- Network Security | Threat Detection
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ravikumartillari)
+- 🔐 [TryHackMe](https://tryhackme.com/p/ravikumartillari62)
+- 🛡️ [LetsDefend](https://app.letsdefend.io/user/ravikumartillari)
